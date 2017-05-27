@@ -5,6 +5,6 @@
 
  - Download and install Python >= 3.5.x
  - Upgrade pip
-    python -m pip install --upgrade pip
+    > python -m pip install --upgrade pip
  - Install other dependencies
-    pip install networkx matplotlib
+    > pip install networkx matplotlib
